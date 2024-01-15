@@ -1,0 +1,58 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_add_materi.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_belajar_dengan_suara.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_detail_vidio_materi.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_home_admin.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_homesiswa.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_inputnamasiswa.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_login_admin.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_main.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_materi_bahasa_inggris.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_materi_dan_suara.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/activity_pilih_materi.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/list_belajar_suara.xml" value="0.4" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/list_materi_bahasa_inggris.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Andre/Downloads/Compressed/bahasainggris-master/app/src/main/res/layout/list_materi_bahasa_inggris_admin.xml" value="0.14855072463768115" />
+        <entry key="..\:/bahasainggris-master/app/src/main/res/layout/activity_add_materi.xml" value="0.22826086956521738" />
+        <entry key="..\:/bahasainggris-master/app/src/main/res/layout/activity_belajar_dengan_suara.xml" value="0.2" />
+        <entry key="..\:/bahasainggris-master/app/src/main/res/layout/activity_detail_vidio_materi.xml" value="0.22826086956521738" />
+        <entry key="..\:/bahasainggris-master/app/src/main/res/layout/activity_home_admin.xml" value="0.22826086956521738" />
+        <entry key="..\:/bahasainggris-master/app/src/main/res/layout/activity_homesiswa.xml" value="0.22826086956521738" />
+        <entry key="app/src/main/res/drawable-v24/ic_bg_button.xml" value="0.114" />
+        <entry key="app/src/main/res/drawable-v24/ic_bg_button_abuabu.xml" value="0.114" />
+        <entry key="app/src/main/res/drawable-v24/ic_bg_button_biru.xml" value="0.211" />
+        <entry key="app/src/main/res/layout/activity_add_materi.xml" value="0.228125" />
+        <entry key="app/src/main/res/layout/activity_belajar_dengan_suara.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/activity_detail_vidio_materi.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/activity_home_admin.xml" value="0.228125" />
+        <entry key="app/src/main/res/layout/activity_homesiswa.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_inputnamasiswa.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_login_admin.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27445652173913043" />
+        <entry key="app/src/main/res/layout/activity_materi_bahasa_inggris.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/activity_materi_dan_suara.xml" value="0.28854166666666664" />
+        <entry key="app/src/main/res/layout/activity_pilih_materi.xml" value="0.31614583333333335" />
+        <entry key="app/src/main/res/layout/list_belajar_suara.xml" value="0.39093780517578125" />
+        <entry key="app/src/main/res/layout/list_materi_bahasa_inggris.xml" value="0.17552083333333332" />
+        <entry key="app/src/main/res/layout/list_materi_bahasa_inggris_admin.xml" value="0.228125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.31614583333333335" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

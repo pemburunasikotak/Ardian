@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "900604861320",
+    "firebase_url": "https://bingfirebase-default-rtdb.firebaseio.com",
+    "project_id": "bingfirebase",
+    "storage_bucket": "bingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900604861320:android:38f6c05229d718e142783d",
+        "android_client_info": {
+          "package_name": "ardian.belajarbahasainggris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900604861320-gh9d2gvh4pkeqjgvpo82jglnp1tpu388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLC-und0FZ6HjPu2SoCyck87A5IJcydvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900604861320-gh9d2gvh4pkeqjgvpo82jglnp1tpu388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900604861320:android:5c4df5c60737898742783d",
+        "android_client_info": {
+          "package_name": "ardian.bingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900604861320-gh9d2gvh4pkeqjgvpo82jglnp1tpu388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLC-und0FZ6HjPu2SoCyck87A5IJcydvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900604861320-gh9d2gvh4pkeqjgvpo82jglnp1tpu388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

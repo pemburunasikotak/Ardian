@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/bgutama"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="115dp">
+
+    </ImageView>
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/cardview_shadow_start_color"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/input_text_email_login"
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:textColorHint="@android:color/holo_blue_light"
+            android:textColor="@android:color/black"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:background="@null"
+            android:layout_height="40dp">
+        </EditText>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/cardview_shadow_start_color"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/input_text_password_login"
+            android:layout_marginLeft="20dp"
+            android:layout_width="match_parent"
+            android:hint="password"
+            android:inputType="textPassword"
+            android:background="@null"
+            android:textColorHint="@android:color/holo_blue_light"
+            android:textColor="@android:color/black"
+            android:layout_height="40dp">
+        </EditText>
+    </LinearLayout>
+
+
+
+    <Button
+        android:id="@+id/btn_masuk_layout_login"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="Masuk"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp">
+    </Button>
+
+
+</LinearLayout>
